@@ -12,7 +12,7 @@ function Hero() {
           Trafalgar provides progressive, and affordable healthcare, accessible
           on mobile and online for everyone
         </text>
-        <button className="w-fit bg-blue-500 py-4 px-10 rounded-full text-white text-sm">
+        <button className="w-fit bg-blue-500 py-3 px-10 rounded-full text-white text-sm">
           Consult today
         </button>
       </div>
