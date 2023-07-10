@@ -36,7 +36,7 @@ function Content() {
             administrative hassle) and securely
           </text>
           <button className="text-lg font-bold rounded-full text-blue-500 border border-blue-500 py-3 px-10 w-fit">
-            Learn more
+            Download
           </button>
         </div>
         <Image
